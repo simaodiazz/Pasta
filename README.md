@@ -178,6 +178,7 @@ public static void between(int num1, int num2) {
 # 8
 ```csharp
 public static void Main(string[] args) {
+    Console.Write("Para descubrir os numeros entre dois numeros digite um valor máximo: ");
     int number = int.Parse(Console.ReadLine());
     between(1, number);
 }
