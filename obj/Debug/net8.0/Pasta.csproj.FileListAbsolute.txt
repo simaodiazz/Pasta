@@ -1,0 +1,15 @@
+C:\Users\simao\Desktop\Pasta\bin\Debug\net8.0\Pasta.exe
+C:\Users\simao\Desktop\Pasta\bin\Debug\net8.0\Pasta.deps.json
+C:\Users\simao\Desktop\Pasta\bin\Debug\net8.0\Pasta.runtimeconfig.json
+C:\Users\simao\Desktop\Pasta\bin\Debug\net8.0\Pasta.dll
+C:\Users\simao\Desktop\Pasta\bin\Debug\net8.0\Pasta.pdb
+C:\Users\simao\Desktop\Pasta\obj\Debug\net8.0\Pasta.csproj.AssemblyReference.cache
+C:\Users\simao\Desktop\Pasta\obj\Debug\net8.0\Pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simao\Desktop\Pasta\obj\Debug\net8.0\Pasta.AssemblyInfoInputs.cache
+C:\Users\simao\Desktop\Pasta\obj\Debug\net8.0\Pasta.AssemblyInfo.cs
+C:\Users\simao\Desktop\Pasta\obj\Debug\net8.0\Pasta.csproj.CoreCompileInputs.cache
+C:\Users\simao\Desktop\Pasta\obj\Debug\net8.0\Pasta.dll
+C:\Users\simao\Desktop\Pasta\obj\Debug\net8.0\refint\Pasta.dll
+C:\Users\simao\Desktop\Pasta\obj\Debug\net8.0\Pasta.pdb
+C:\Users\simao\Desktop\Pasta\obj\Debug\net8.0\Pasta.genruntimeconfig.cache
+C:\Users\simao\Desktop\Pasta\obj\Debug\net8.0\ref\Pasta.dll
