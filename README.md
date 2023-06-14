@@ -82,25 +82,37 @@ public static void Main(string[] args)
 {
     Console.Write("Digite que horas são: ");
     int hour = int.Parse(Console.ReadLine());
-        
-    if (hour > 5 && hour < 12) {
+
+    if (hour > 5 && hour < 12) 
+    {
         Console.WriteLine(bom_dia());
-    } else if (hour > 11 && hour < 20) {
+    } 
+    else if (hour > 11 && hour < 20) 
+    {
         Console.WriteLine(boa_tarde());
-    } else {
+    } 
+    else if ((hour >= 20 && hour <= 24) || (hour > 0 && hour <= 5)) 
+    {
         Console.WriteLine(boa_noite());
+    } 
+    else 
+    {
+        Console.WriteLine("Indique um valor entre 0 e 24.");
     }
 }
-    
-public static string bom_dia() {
+
+public static string bom_dia() 
+{
     return "Bom dia.";
 }
-    
-public static string boa_tarde() {
+
+public static string boa_tarde() 
+{
     return "Boa tarde.";
 }
-    
-public static string boa_noite() {
+
+public static string boa_noite() 
+{
     return "Boa noite.";
 }
 ```
@@ -115,12 +127,21 @@ public static void Main(string[] args)
 }
 
 public static void boas_vindas(int hour) {
-    if (hour > 5 && hour < 12) {
+    if (hour > 5 && hour < 12) 
+    {
         Console.WriteLine("Bom dia.");
-    } else if (hour > 11 && hour < 20) {
+    } 
+    else if (hour > 11 && hour < 20) 
+    {
         Console.WriteLine("Boa tarde.");
-    } else {
+    } 
+    else if ((hour >= 20 && hour <= 24) || (hour > 0 && hour <= 5)) 
+    {
         Console.WriteLine("Boa noite.");
+    } 
+    else 
+    {
+        Console.WriteLine("Indique um valor entre 0 e 24.");
     }
 }
 ```
